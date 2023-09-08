@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">zemerovaVariantFirst</string>
+
+    <string name="geomcalc">Геометрический калькулятор</string>
+    <string name="loginenter">Введите логин</string>
+    <string name="passwenter">Введите пароль</string>
+    <string name="signup">Регистрация</string>
+    <string name="choicef">Выбор фигуры</string>
+    <string name="fenter">Выберите фигуру</string>
+    <string name="denter">Введите данные для расчета</string>
+    <string name="performcalc">Выполнить расчёт</string>
+    <string name="resultcalc">Результат вычисления</string>
+    <string name="choicefname">Название выбранной фигуры</string>
+    <string name="res">Результат</string>
+</resources>
